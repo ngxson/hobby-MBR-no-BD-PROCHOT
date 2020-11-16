@@ -21,7 +21,7 @@ This mod uses bootstrap code from [here](https://github.com/egormkn/mbr-boot-man
 
 ## How to install
 
-**Compability**: Windows 7 / 8 / 8.1 / 10
+**Compatibility**: Windows 7 / 8 / 8.1 / 10
 
 1. Make sure you are using MBR boot mode (or "Legacy" boot mode on modern mainboard BIOS)
 2. Download [BOOTICE](https://www.majorgeeks.com/files/details/bootice_64_bit.html) and run as Administrator.
